@@ -1,5 +1,5 @@
 # Number-Guesser
-a munber guesser on penguinmod
+a nunber guesser on penguinmod
 
 Instructions
 
