@@ -19,6 +19,10 @@ when it asks you for a file
 
 choose the .pmp file
 
+It will ask you for permision to load an outside extension. See
+
+https://github.com/insanerest/Number-Guesser/blob/main/Instructions/Instruction3.png
+
 Then you are ready to play
 
 
