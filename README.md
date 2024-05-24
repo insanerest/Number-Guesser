@@ -25,4 +25,4 @@ Then you are ready to play
 
 
 
-![Blocket](https://github.com/insanerest/Number-Guesser/blob/main/Word-Guesser.png)
+![The Number Guesser](https://github.com/insanerest/Number-Guesser/blob/main/Number-Guesser.png)
