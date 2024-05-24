@@ -22,3 +22,7 @@ choose the .pmp file
 Then you are ready to play
 
 
+
+
+
+![Blocket](https://github.com/insanerest/Word-Guesser/blob/main/Word-Guesser.png)
