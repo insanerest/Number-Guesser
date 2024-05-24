@@ -7,11 +7,11 @@ Go To https://studio.penguinmod.com/editor.html
 
 See
 
-https://github.com/insanerest/Blocket/blob/main/Instructions/Instruction1.png
+https://github.com/insanerest/Word-Guesser/blob/main/Instructions/Instruction1.png
 
 and
 
-https://github.com/insanerest/Blocket/blob/main/Instructions/Instruction2.png
+https://github.com/insanerest/Word-Guesser/blob/main/Instructions/Instruction2.png
 
 Then download this repo as a zip and unzip it
 
