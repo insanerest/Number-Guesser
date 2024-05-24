@@ -1,5 +1,5 @@
-# Word-Guesser
-a word guesser on penguinmod
+# Number-Guesser
+a munber guesser on penguinmod
 
 Instructions
 
@@ -25,4 +25,4 @@ Then you are ready to play
 
 
 
-![Blocket](https://github.com/insanerest/Word-Guesser/blob/main/Word-Guesser.png)
+![Blocket](https://github.com/insanerest/Number-Guesser/blob/main/Word-Guesser.png)
